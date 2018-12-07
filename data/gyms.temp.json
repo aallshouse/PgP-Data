@@ -1,0 +1,375 @@
+{
+  "gymId": "0034245a7994412ba0bce955b2a1d40e.16",
+  "gymName": "Pittsburgh Ballet Theatre",
+  "gymInfo": {
+    "gymDescription": "",
+    "latitude": 40.457377,
+    "longitude": -79.973253,
+    "addressComponents": [
+      {
+        "formattedAddress": "2900 Liberty Ave, Pittsburgh, PA 15201, USA",
+        "addressComponents": [
+          {
+            "longName": "2900",
+            "shortName": "2900",
+            "types": [
+              "STREET_NUMBER"
+            ]
+          },
+          {
+            "longName": "Liberty Avenue",
+            "shortName": "Liberty Ave",
+            "types": [
+              "ROUTE"
+            ]
+          },
+          {
+            "longName": "Pittsburgh",
+            "shortName": "Pittsburgh",
+            "types": [
+              "LOCALITY",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Allegheny County",
+            "shortName": "Allegheny County",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_2",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "15201",
+            "shortName": "15201",
+            "types": [
+              "POSTAL_CODE"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Liberty Ave at 29th St, Pittsburgh, PA 15201, USA",
+        "addressComponents": [
+          {
+            "longName": "Liberty Ave at 29th St",
+            "shortName": "Liberty Ave at 29th St",
+            "types": [
+              "BUS_STATION",
+              "ESTABLISHMENT",
+              "POINT_OF_INTEREST",
+              "TRANSIT_STATION"
+            ]
+          },
+          {
+            "longName": "Strip District",
+            "shortName": "Strip District",
+            "types": [
+              "NEIGHBORHOOD",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pittsburgh",
+            "shortName": "Pittsburgh",
+            "types": [
+              "LOCALITY",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Allegheny County",
+            "shortName": "Allegheny County",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_2",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "15201",
+            "shortName": "15201",
+            "types": [
+              "POSTAL_CODE"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Polish Hill, Pittsburgh, PA, USA",
+        "addressComponents": [
+          {
+            "longName": "Polish Hill",
+            "shortName": "Polish Hill",
+            "types": [
+              "NEIGHBORHOOD",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pittsburgh",
+            "shortName": "Pittsburgh",
+            "types": [
+              "LOCALITY",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Reserve Township",
+            "shortName": "Reserve Township",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_3",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Allegheny County",
+            "shortName": "Allegheny County",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_2",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Pittsburgh, PA, USA",
+        "addressComponents": [
+          {
+            "longName": "Pittsburgh",
+            "shortName": "Pittsburgh",
+            "types": [
+              "LOCALITY",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Allegheny County",
+            "shortName": "Allegheny County",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_2",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "ARSENAL, PA 15201, USA",
+        "addressComponents": [
+          {
+            "longName": "15201",
+            "shortName": "15201",
+            "types": [
+              "POSTAL_CODE"
+            ]
+          },
+          {
+            "longName": "ARSENAL",
+            "shortName": "ARSENAL",
+            "types": [
+              "LOCALITY",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Allegheny County",
+            "shortName": "Allegheny County",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_2",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Allegheny County, PA, USA",
+        "addressComponents": [
+          {
+            "longName": "Allegheny County",
+            "shortName": "Allegheny County",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_2",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Pittsburgh Metropolitan Area, PA, USA",
+        "addressComponents": [
+          {
+            "longName": "Pittsburgh Metropolitan Area",
+            "shortName": "Pittsburgh Metropolitan Area",
+            "types": [
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "Pennsylvania, USA",
+        "addressComponents": [
+          {
+            "longName": "Pennsylvania",
+            "shortName": "PA",
+            "types": [
+              "ADMINISTRATIVE_AREA_LEVEL_1",
+              "POLITICAL"
+            ]
+          },
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          }
+        ]
+      },
+      {
+        "formattedAddress": "United States",
+        "addressComponents": [
+          {
+            "longName": "United States",
+            "shortName": "US",
+            "types": [
+              "COUNTRY",
+              "POLITICAL"
+            ]
+          }
+        ]
+      }
+    ],
+    "places": [
+      "AE7",
+      "AE7QA",
+      "Abraxas Youth \u0026 Family Services",
+      "Calloway Welding Service Inc",
+      "Chandra, Dr. Ramamurti I",
+      "Denny Park",
+      "Fair Housing Partnership Inc",
+      "Hôpital Albert Schweitzer Haiti",
+      "Lafe Decker",
+      "Liberty Ave at 29th St",
+      "Liberty Ave at 29th St FS",
+      "Los de Patanegra",
+      "PDF Solutions Inc",
+      "Pittsburgh Ballet Theatre",
+      "SJS Development Co",
+      "Work Bridge"
+    ],
+    "nearestGym": "942003"
+  }
+}
